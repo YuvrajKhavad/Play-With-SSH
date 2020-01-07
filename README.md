@@ -19,6 +19,10 @@ For this, we will use SCP command and need both Servers IP Address, Username, Pa
 e.g scp path/to/file UsernameofB@IPofB:path/to/destination
 e.g scp public_html/filename.zip yuvrajkhavad@192.111.1.1:public_html/newdata
 
+#4 Delete
+4.1 Delete full folder
+e.g rm -rf foldername/
+
 Note: public_html/filename.zip:                     Server A Details 
       yuvrajkhavad@192.111.1.1:public_html/newdata: Server B Details 
 
@@ -35,3 +39,4 @@ Note: public_html/filename.zip:                     Server A Details
 Reference 
 1. http://www.servermom.org/how-to-zip-compress-and-unzip-extract-files/
 2. http://www.matrudev.com/post/transfer-files-web-server-using-ssh/
+3. https://www.siteground.com/tutorials/ssh/
