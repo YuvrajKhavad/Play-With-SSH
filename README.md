@@ -37,6 +37,7 @@ scp public_html/filename.zip yuvrajkhavad@192.111.1.1:public_html/newdata
 ```
 
 Note: public_html/filename.zip:                     Server A Details 
+
       yuvrajkhavad@192.111.1.1:public_html/newdata: Server B Details 
 
 ## 4 Delete
@@ -53,5 +54,7 @@ Please make sure to update tests as appropriate.
  
 ## Reference
 [1. servermom.org](http://www.servermom.org/how-to-zip-compress-and-unzip-extract-files/)
+
 [2. matrudev.com](http://www.matrudev.com/post/transfer-files-web-server-using-ssh/)
+
 [3. siteground.com](https://www.siteground.com/tutorials/ssh/)
