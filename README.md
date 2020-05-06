@@ -25,7 +25,7 @@ e.g unzip filename.zip
 unzip backup.zip
 ```
 
-##  3 Move files from One Server to another
+##  3. Move files from One Server to another
 For this, we will use SCP command and need both Servers IP Address, Username, Password and path to file or folder
 
 3.1 Move file from the old server (A) to a new server (B) while logged into A
@@ -42,7 +42,7 @@ public_html/filename.zip:                     Server A Details
 
 yuvrajkhavad@192.111.1.1:public_html/newdata: Server B Details 
 
-## 4 Delete
+## 4. Delete
 
 4.1 Delete full folder
 ```bash
