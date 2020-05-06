@@ -7,7 +7,7 @@ All command of SSH(Secure Shell) operations.
 ```bash
 zip filename.zip *
 ```
-Note: In this subfolders & files will note includes and you can add file name without extension
+Note: In this, subfolders and files will note includes and you can add file name without extension
 
 1.2 zip-up an entire directory including all sub-directories
 
