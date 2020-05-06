@@ -36,9 +36,11 @@ e.g scp path/to/file UsernameofB@IPofB:path/to/destination
 scp public_html/filename.zip yuvrajkhavad@192.111.1.1:public_html/newdata
 ```
 
-Note: public_html/filename.zip:                     Server A Details 
+Note: 
 
-      yuvrajkhavad@192.111.1.1:public_html/newdata: Server B Details 
+public_html/filename.zip:                     Server A Details 
+
+yuvrajkhavad@192.111.1.1:public_html/newdata: Server B Details 
 
 ## 4 Delete
 
