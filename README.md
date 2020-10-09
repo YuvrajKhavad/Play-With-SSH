@@ -16,6 +16,13 @@ e.g zip -r filename *
 zip -r backup *
 ```
 
+1.3 zip-up an specificfolderincluding all sub-directories
+
+e.g zip -r <output_file> <folder_1> <folder_2> ... <folder_n>
+```bash
+zip -r backup.zip Documents
+```
+
 ##  2. UNZIP Operations
 2.1 Unzip specific file 
 
